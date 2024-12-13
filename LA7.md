@@ -1,4 +1,4 @@
-LA# 7
+```python
                    UPDATE
 class Car:
     def __init__(self,brand,color):
@@ -12,3 +12,4 @@ print(Toyota.brand, Toyota.color)
 
 Lamborghini = Car("Lamborghini","blue")
 print(Lamborghini.brand, Lamborghini.color)
+```python
