@@ -1,3 +1,4 @@
+```python
               DELETE
 class Book:
     def init(self,title,author):
@@ -10,3 +11,4 @@ del buk1.author
 buk2 = Book("The hunger Games", "Suzanne Collins")
 print(buk1.title, buk1.author)
 print(buk2.title, buk2.author)
+```python
