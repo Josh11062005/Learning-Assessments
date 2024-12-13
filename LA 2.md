@@ -1,3 +1,4 @@
+```python
 class MLHero():
     def __init__(self, name, role):
         self.name = name
@@ -10,3 +11,4 @@ print(mage.name)
 print(mage.role)
 print(marksman.name)
 print(marksman.role)
+```python
