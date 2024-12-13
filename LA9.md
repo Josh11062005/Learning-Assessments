@@ -1,3 +1,4 @@
+```python
 class car:
     def init(self,brand):
         self.brand = brand
@@ -7,3 +8,4 @@ kotse = car("Toyota")
 print(kotse)
 del kotse
 print(kotse)
+```python
